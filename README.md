@@ -17,7 +17,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@tin_bruno_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@tin_bruno_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/bruno rodrigues" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bruno rodrigues" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/bruno-davd-moreira-de-almeida-rodrigues-97b8ba266/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Bruno David Moreira De Almeida Rodrigues" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/user:21182003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:21182003" height="30" width="40" /></a>
 </p>
 
